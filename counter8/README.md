@@ -52,7 +52,7 @@
 ![하드웨어 구성 도식화](../image/ECS_count8_domino4.png)
 
 ### Raspberry Pi5 pinmap
-![라즈베리파이5 핀맵](../image/RaspberryPi5pinmap.png)
+![라즈베리파이5 핀맵](../image/RaspberryPi5pin_map.png)
 
 ### GPIO 핀 연결 표
 | 핀 번호 (BCM) | 연결된 부품 | 설명                    |
