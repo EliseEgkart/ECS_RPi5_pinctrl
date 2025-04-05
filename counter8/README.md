@@ -9,6 +9,9 @@
 
 [![시연 영상 바로가기](http://img.youtube.com/vi/9MFR2cRm7uk/0.jpg)](https://youtu.be/9MFR2cRm7uk)
 
+### 핀맵과 GPIO에 대한 추가 설명입니다.
+[![시연 영상 바로가기](http://img.youtube.com/vi/bRw7eX6XiOk/0.jpg)](https://youtu.be/bRw7eX6XiOk)
+
 ---
 ## 동작 원리 상세 설명
 
@@ -47,6 +50,9 @@
 
 ### 하드웨어 구성 도식화
 ![하드웨어 구성 도식화](../image/ECS_count8_domino4.png)
+
+### Raspberry Pi5 pinmap
+![라즈베리파이5 핀맵](../image/RaspberryPi5pinmap.png)
 
 ### GPIO 핀 연결 표
 | 핀 번호 (BCM) | 연결된 부품 | 설명                    |

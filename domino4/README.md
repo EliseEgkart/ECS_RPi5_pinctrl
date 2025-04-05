@@ -5,12 +5,13 @@
 특히 **domio4**는 4개의 GPIO 핀을 사용하여 LED들이 순차적으로 켜졌다가 꺼지는 동작을 구현하는 프로젝트입니다.
 
 ---
-
 ## 시연 영상
-
 실제 작동하는 모습을 아래 영상을 통해 확인할 수 있습니다:
 
 [![시연 영상 바로가기](http://img.youtube.com/vi/9MFR2cRm7uk/0.jpg)](https://youtu.be/9MFR2cRm7uk)
+
+### 핀맵과 GPIO에 대한 추가 설명입니다.
+[![시연 영상 바로가기](http://img.youtube.com/vi/bRw7eX6XiOk/0.jpg)](https://youtu.be/bRw7eX6XiOk)
 
 ---
 
@@ -44,6 +45,9 @@
 
 ### 하드웨어 구성 도식화
 ![하드웨어 구성 도식화](../image/ECS_count8_domino4.png)
+
+### Raspberry Pi5 pinmap
+![라즈베리파이5 핀맵](../image/RaspberryPi5pinmap.png)
 
 ### GPIO 핀 연결 표
 
