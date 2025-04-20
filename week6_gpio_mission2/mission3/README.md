@@ -1,7 +1,6 @@
 # 임베디드 통신시스템 프로젝트 - gpiozero 기반 순차 점멸 LED 제어
 
-이 프로젝트는 Raspberry Pi 5와 Python의 `gpiozero` 라이브러리를 활용하여 GPIO를 제어하는 것을 목표로 합니다.  
-특히 이 프로젝트는 **버튼을 누르면 4개의 LED가 순차적으로 켜졌다가 꺼지는 도미노 스타일의 동작**을 구현합니다.  
+이 프로젝트는 Raspberry Pi 5와 Python의 `gpiozero` 라이브러리를 활용하여 GPIO를 제어하는 것을 목표로 합니다. 특히 이 프로젝트는 **버튼을 누르면 4개의 LED가 순차적으로 켜졌다가 꺼지는 도미노 스타일의 동작**을 구현합니다.  
 입력 엣지 트리거 처리, 다중 출력 핀 제어, 시그널 기반 종료 등 다양한 GPIO 제어 요소가 포함되어 있습니다.
 
 ---
@@ -10,7 +9,7 @@
 
 아래 영상에서는 버튼을 누를 때마다 LED가 1초 간격으로 순차 점등/소등되는 동작을 확인할 수 있습니다:
 
-[![시연 영상 바로가기](http://img.youtube.com/vi/z2csX5kX4zo/0.jpg)](https://youtu.be/z2csX5kX4zo)
+[![시연 영상 바로가기](http://img.youtube.com/vi/sItclSGZrT4/0.jpg)](https://youtube.com/shorts/sItclSGZrT4)
 
 ---
 

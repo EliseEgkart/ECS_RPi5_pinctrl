@@ -11,7 +11,7 @@
 
 버튼을 누를 때마다 LED 패턴이 이진수 형태로 증가하는 모습을 확인할 수 있습니다:
 
-[![시연 영상 바로가기](http://img.youtube.com/vi/z2csX5kX4zo/0.jpg)](https://youtu.be/z2csX5kX4zo)
+[![시연 영상 바로가기](http://img.youtube.com/vi/1306bdldeCU/0.jpg)](https://youtube.com/shorts/1306bdldeCU)
 
 ---
 
