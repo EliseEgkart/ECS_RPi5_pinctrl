@@ -10,7 +10,7 @@
 
 아래 영상에서는 버튼을 누를 때마다 LED가 켜지고, 떼면 꺼지는 동작을 확인할 수 있습니다:
 
-[![시연 영상 바로가기](http://img.youtube.com/vi/N0Kje5kXbfY/0.jpg)](https://youtube.com/shorts/N0Kje5kXbfY)
+[![시연 영상 바로가기](http://img.youtube.com/vi/1306bdldeCU/0.jpg)](https://youtube.com/shorts/1306bdldeCU)
 
 ---
 

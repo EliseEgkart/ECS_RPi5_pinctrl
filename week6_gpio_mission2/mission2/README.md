@@ -10,7 +10,7 @@
 
 버튼을 누를 때마다 LED가 토글되는 동작을 아래 영상에서 확인할 수 있습니다:
 
-[![시연 영상 바로가기](http://img.youtube.com/vi/z2csX5kX4zo/0.jpg)](https://youtu.be/z2csX5kX4zo)
+[![시연 영상 바로가기](http://img.youtube.com/vi/N0Kje5kXbfY/0.jpg)](https://youtube.com/shorts/N0Kje5kXbfY)
 
 ---
 
